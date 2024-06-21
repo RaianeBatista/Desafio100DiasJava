@@ -5,23 +5,20 @@
 <h2>Desafio 100 dias programando em Java</h2> 
 🌐 Status: Developing ✅
 
-### Tool/IDE used:
-+IntelliJ
 
-+ name
-+ description
-+ sequency num
-+ dificult category
-+ i know
-
- ## Technologies Used:
+ ### Technologies and tools used
 
  <table>
 <tr>
  <td> JAVA </td>
+  <td>Tool</td>
 </tr>
+  
+  
+  
 <tr>
  <td> jdk-22</td>
+ <td>IntelliJ</td>
 </tr>
   
  </table>
