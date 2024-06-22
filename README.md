@@ -28,6 +28,10 @@
    I - Install the IntelliJ IDE
      
    II - Install Java Jdk-22
+
+   ## Challenge 01:
+   + Read an integer value corresponding to a person's age in years and report in days and months.
+   + Leia um valor inteiro correspondente à idade de uma pessoa em anos e informe em dias e meses.
   
     
 
