@@ -16,5 +16,4 @@ public class Desafio01 {
     }
 }
 
-//Desafio01.java
-//Leia um valor inteiro correspondente à idade de uma pessoa em anos e informe em dias e meses.
+
