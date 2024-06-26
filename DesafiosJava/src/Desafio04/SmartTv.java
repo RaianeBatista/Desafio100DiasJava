@@ -1,6 +1,5 @@
 package Desafio04;
 
-
 public class SmartTv {
     boolean ligada = false;
     boolean desligada = true;
