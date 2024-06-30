@@ -34,6 +34,9 @@
    + Leia um valor inteiro correspondente à idade de uma pessoa em anos e informe em dias e meses.
  ## Challenge 02:
    + This Java program prints the current date and time to the console, formatted in the dd/MM/yyyy standard HH:mm:ss
+   ## Challenge 03:
+   +  presents different types of concatenations in Java, for example:
+   +  concatenation = 1 + 1 + 1 + "1";
   
     
 
