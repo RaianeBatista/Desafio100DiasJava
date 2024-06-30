@@ -78,7 +78,7 @@ public class Usuario {
                 }
             } else if (escolha.equalsIgnoreCase("s")) {
                 volumeEscolhido = false;
-                System.out.println("Ajuste de volume encerrado");
+                System.out.println("Tv desligada");
             } else {
                 System.out.println("Opção inválida! Digite novamente.");
             }
