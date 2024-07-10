@@ -1,4 +1,4 @@
-package Desafio04;
+package edu.raiane.desafios100.java.desafio04;
 import java.util.Scanner;
 
 public class Usuario {

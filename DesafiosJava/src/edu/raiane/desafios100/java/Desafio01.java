@@ -1,3 +1,5 @@
+package edu.raiane.desafios100.java;
+
 import java.util.Scanner;
 
 public class Desafio01 {

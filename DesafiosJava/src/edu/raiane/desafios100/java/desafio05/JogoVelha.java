@@ -1,4 +1,4 @@
-package Desafio05;
+package edu.raiane.desafios100.java.desafio05;
 
 import java.util.Scanner;
 
