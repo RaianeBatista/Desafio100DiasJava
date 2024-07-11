@@ -38,9 +38,11 @@
    +  presents different types of concatenations in Java, for example:
    +  concatenation = 1 + 1 + 1 + "1";
  ## Challenge 04:
- +Features SmartTV operating system, for example: on/off, volume up/down, channel change
+ + Features SmartTV operating system, for example: on/off, volume up/down, channel change
   ## Challenge 05:
-  +In this game, 2 people choose positions in a matrix and whoever completes the 3 x 3 matrix is ​​the winner.
+  + In this game, 2 people choose positions in a matrix and whoever completes the 3 x 3 matrix is ​​the winner.
+  ## Challenge 06:
+  + Multiplication table challenge
   
     
 
